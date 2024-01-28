@@ -7,7 +7,6 @@
 
 <p align="right">
 <img src="svg/t-part/Arktik-java.svg" alt="ark" style="vertical-align:top; margin:6px 4px">
-</p>
 <p align="right">
 <img src="svg/lang/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">   
 </p>
