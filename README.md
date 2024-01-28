@@ -13,5 +13,6 @@
 <img src="svg/lang/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">   
 </p>
 <details>
+
 ![frog](https://github.com/ArkSourcer/ArkSourcer/assets/93954648/d63dda87-b1ae-41fe-bb21-b3376eb7d270)
 
