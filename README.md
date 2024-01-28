@@ -14,11 +14,5 @@
 </p>
 <details>
 
-![frog](https://github.com/ArkSourcer/ArkSourcer/assets/93954648/d63dda87-b1ae-41fe-bb21-b3376eb7d270) `Ark:` Soy una rana que esperabas...
-
-<p align="center">
-
-![frog](https://github.com/ArkSourcer/ArkSourcer/assets/93954648/615e1c7e-a1df-47f0-a9b2-2af56fef1c5c) Este `.png` se llama frog por razones chistosas que no contare en este `README.md`.
-
-</p>
+![frog](https://github.com/ArkSourcer/ArkSourcer/assets/93954648/d63dda87-b1ae-41fe-bb21-b3376eb7d270) `Ark:` Soy una rana que esperabas... ![frog](https://github.com/ArkSourcer/ArkSourcer/assets/93954648/615e1c7e-a1df-47f0-a9b2-2af56fef1c5c) Este `.png` se llama frog por razones chistosas que no contare en este `README.md`.
 
