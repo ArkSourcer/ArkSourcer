@@ -5,7 +5,7 @@
 </details>
 <details>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ArkSourcer/arktik-java)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArkSourcer)](https://github.com/ArkSourcer/arktik-java)
 
 <details>
  <summary><b>Projets in Progress:</b></summary>
