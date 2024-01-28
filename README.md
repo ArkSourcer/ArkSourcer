@@ -11,7 +11,9 @@
 <p>
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ArkSourcer\&repo=wrongest-bot\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-</p>
+<p>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ArkSourcer\&repo=arktik-java\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 
 <p align="left">
