@@ -9,3 +9,4 @@
 <img src="svg/t-part/Arktik-java.svg" alt="ark" style="vertical-align:top; margin:6px 4px">
 <img src="svg/lang/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">   
 </p>
+![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
