@@ -17,7 +17,7 @@
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ArkSourcer\&repo=arktik-java\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 
-<p align="left">
+<p align="right">
 <img src="svg/t-part/Arktik-java.svg" alt="ark" style="vertical-align:top; margin:6px 4px">
 <img src="svg/lang/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">   
 </p>
