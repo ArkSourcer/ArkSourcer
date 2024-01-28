@@ -18,4 +18,4 @@
 
 ![frog](https://github.com/ArkSourcer/ArkSourcer/assets/93954648/615e1c7e-a1df-47f0-a9b2-2af56fef1c5c) Este `.png` se llama frog por razones chistosas que no contare en este `README.md`.
 
-- La Ezquisofrenia existe. Porque si no existiera no hubiera perdido 10 minutos de mi vida Programando en `.md` y eso que no es un lenguaje
+- La Ezquisofrenia existe. Porque si no existiera no hubiera perdido 10 minutos de mi vida Programando en `.md` y eso que no es un lenguaje... ATT: ArkSourcer.
