@@ -5,7 +5,7 @@
 </details>
 <a href="#">
     <img src="svg/lang/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-<img src="svg/t-part/Arktik-java.svg" alt="ark" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/t-part/Arktik-java.svg" alt="ark" style="vertical-align:top; margin:6px 4px">
   </a>
 
 
