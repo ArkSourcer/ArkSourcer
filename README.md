@@ -7,5 +7,7 @@
     <img src="svg/lang/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>
 
+<img src="svg/mods/arktik.svg">
+
 
 
