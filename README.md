@@ -1,2 +1,3 @@
 # Team-SD
-![2](https://github.com/ArkSourcer/Team-SD/assets/93954648/1e0b4392-e0c0-4bd7-b9a6-a4d9572b25e8)
+
+![2 (1)](https://github.com/ArkSourcer/ArkSourcer/assets/93954648/f04c972f-62b2-4cfb-a9fa-e95a95a25ab9)
